@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Sam, I am a full-stack developer who has a background in healthcare who focuses on building scalable programs that help solve real-world problems. I am incredibly passionate about blending the world of health care and programming to produce solutions to everyday health care problems. 
+I am **Sam**! I am a full-stack developer who has a background in healthcare. My focus is building scalable programs that help solve real-world problems. I am incredibly passionate about blending the world of health care and programming to produce solutions to everyday health care problems. 
 
 🔭 I am currently working on My PMOS Buddy, a health application that assists women in tracking their patterns.
 🌱 I am currently learning Python and SQL to add to my tech stack.
