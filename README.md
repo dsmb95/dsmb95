@@ -1,15 +1,15 @@
-## Hi there 👋 /
+## Hi there 👋
 
-I am **Sam**! I am a full-stack developer who has a background in healthcare. My focus is building scalable programs that help solve real-world problems. I am incredibly passionate about blending the world of health care and programming to produce solutions to everyday health care problems./n
+I am **Sam**! I am a full-stack developer who has a background in healthcare. My focus is building scalable programs that help solve real-world problems. I am incredibly passionate about blending the world of health care and programming to produce solutions to everyday health care problems. /n
 
-🔭 I am currently working on My PMOS Buddy, a health application that assists women in tracking their patterns./n
-🌱 I am currently learning Python and SQL to add to my tech stack./n
-🚀 I specialize in the MERN (MongoDB, Express.js, React, and Node.js) stack./n
+🔭 I am currently working on My PMOS Buddy, a health application that assists women in tracking their patterns. /n
+🌱 I am currently learning Python and SQL to add to my tech stack. /n
+🚀 I specialize in the MERN (MongoDB, Express.js, React, and Node.js) stack. /n
 
-⚡ Fun fact: I come from a diverse background, my education mostly revolved around healthcare (I have a BS in Nursing) and briefly went to medical school. My career revolved mostly around the hospitality and retail industry, and now I am pursuing a career in tech!/n
+⚡ Fun fact: I come from a diverse background, my education mostly revolved around healthcare (I have a BS in Nursing) and briefly went to medical school. My career revolved mostly around the hospitality and retail industry, and now I am pursuing a career in tech! /n
 
-If you want to connect about projects or employment opportunities you can reach me on:/n 
-📧 **Email:** daniellesamanthamananquil@gmail.com/n
+If you want to connect about projects or employment opportunities you can reach me on: /n 
+📧 **Email:** daniellesamanthamananquil@gmail.com /n
 💼 **LinkedIn:** www.linkedin.com/in/dsmananquil
 
 
